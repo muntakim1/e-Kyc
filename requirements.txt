@@ -1,0 +1,7 @@
+fastapi
+hypercorn
+python-multipart
+tortoise-orm
+passlib
+pyjwt
+
